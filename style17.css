@@ -1,0 +1,15 @@
+.top {
+	height: 50px;
+}
+.main {
+	height: 1000px;
+}
+.block{
+	height: 150px;
+}
+span{
+	font-size: 10px;
+}
+text{
+	font-size: 10px;
+}
